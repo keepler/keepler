@@ -14,7 +14,7 @@
 - 🔭 We’re currently working on developing data products on public cloud.
 - 🌱 We’re currently learning how to increase value to our clients using their own data.
 - 👯 We’relooking to collaborate on to create better strategies and solutions to solve business’ problems.
-- 🤔 We’relooking for people to join us to make better devOps team of the World
+- 🤔 We’relooking for people to join us to make better DevOps & Data-Science team of the World.
 - 💬 Ask us about how to create value from your data.
 - 📫 How to reach us: www.keepler.io and hello@keepler.io
 - 😄 Pronouns: [k e p l e r] or [k i p l e r] we are not agree.
