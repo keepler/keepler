@@ -1,13 +1,13 @@
 
-[![Site Badge](https://img.shields.io/badge/Site-blue?logo=apache&logoColor=Green&labelColor=white)](https://keepler.io/)
-[![Blog Badge](https://img.shields.io/badge/Blog-blue?logo=wordpress&logoColor=Blue&labelColor=white)](https://keepler.io/en/blog/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/organization-guest/company/keepler)
+[![Site Badge](https://img.shields.io/badge/Site-blue?logo=apache&logoColor=Green&labelColor=black)](https://keepler.io/)
+[![Blog Badge](https://img.shields.io/badge/Blog-blue?logo=wordpress&logoColor=Blue&labelColor=black)](https://keepler.io/en/blog/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/organization-guest/company/keepler)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&link=https://twitter.com/keepler_io)](https://twitter.com/keepler_io)
-[![Meetup Badge](https://img.shields.io/badge/Instagram-blue?logo=instagram&logoColor=Orange&labelColor=white)](https://www.instagram.com/keepler.io/)
-[![Meetup Badge](https://img.shields.io/badge/YouTube-blue?logo=youtube&logoColor=Red&labelColor=white)](https://www.youtube.com/channel/UCDvH9CdAlFD-B-6RGFgt2zw/videos)
-[![Meetup Badge](https://img.shields.io/badge/flickr-blue?logo=flickr&logoColor=Red&labelColor=white)](https://www.flickr.com/photos/keepler/)
-[![Meetup Badge](https://img.shields.io/badge/meetup-blue?logo=Meetup&logoColor=Red&labelColor=white)](https://www.meetup.com/es-ES/datatech-agileculture/)
-[![Medium Badge](https://img.shields.io/badge/Medium-blue?logo=Medium&logoColor=Green&labelColor=white)](https://medium.com/keepler)
+[![Meetup Badge](https://img.shields.io/badge/Instagram-blue?logo=instagram&logoColor=Orange&labelColor=black)](https://www.instagram.com/keepler.io/)
+[![Meetup Badge](https://img.shields.io/badge/YouTube-blue?logo=youtube&logoColor=Red&labelColor=black)](https://www.youtube.com/channel/UCDvH9CdAlFD-B-6RGFgt2zw/videos)
+[![Meetup Badge](https://img.shields.io/badge/flickr-blue?logo=flickr&logoColor=Red&labelColor=black)](https://www.flickr.com/photos/keepler/)
+[![Meetup Badge](https://img.shields.io/badge/meetup-blue?logo=Meetup&logoColor=Red&labelColor=black)](https://www.meetup.com/es-ES/datatech-agileculture/)
+[![Medium Badge](https://img.shields.io/badge/Medium-blue?logo=Medium&logoColor=Green&labelColor=black)](https://medium.com/keepler)
 
 ### Hi there 👋
 
